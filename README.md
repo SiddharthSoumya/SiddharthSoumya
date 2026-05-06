@@ -51,13 +51,6 @@ Focused on clean architecture, real-world problem solving, and internship-ready 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SiddharthSoumya&show_icons=true&theme=tokyonight" height="180"/>
-</p>
----
-
 ## 🔥 Current Focus
 
 - Deep dive into Spring Boot internals  
